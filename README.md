@@ -44,3 +44,7 @@ Compile `bootloader.asm` with `nasm -fbin bootloader.asm -o bootloader.bin`
 And run it with [qemu](https://www.qemu.org/):
 
 `qemu bootloader.bin` or `qemu-system-x86_64 bootloader.bin`
+
+## Reporting issues
+
+Report issues (here)[https://github.com/Chateauvisionn/bootloader.py/issues]
