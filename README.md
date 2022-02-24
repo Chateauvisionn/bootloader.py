@@ -48,3 +48,5 @@ And run it with [qemu](https://www.qemu.org/):
 ## Reporting issues
 
 Report issues (here)[https://github.com/Chateauvisionn/bootloader.py/issues]
+
+[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](https://github.com/Chateauvisionn/bootloader.py)
