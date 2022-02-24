@@ -42,4 +42,5 @@ To compile assembly files, use [nasm](https://www.nasm.us/).
 Compile `bootloader.asm` with `nasm -fbin bootloader.asm -o bootloader.bin`
 
 And run it with [qemu](https://www.qemu.org/):
+
 `qemu bootloader.bin` or `qemu-system-x86_64 bootloader.bin`
